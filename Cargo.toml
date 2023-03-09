@@ -20,11 +20,11 @@ panic = "abort"
 panic = "abort"
 
 [dependencies]
-rbx_binary = { git = "https://github.com/UpliftGames/rbx-dom", branch = "master" } 
-rbx_dom_weak = { git = "https://github.com/UpliftGames/rbx-dom", branch = "master" } 
-rbx_reflection = { git = "https://github.com/UpliftGames/rbx-dom", branch = "master" } 
-rbx_reflection_database = { git = "https://github.com/UpliftGames/rbx-dom", branch = "master" } 
-rbx_xml = { git = "https://github.com/UpliftGames/rbx-dom", branch = "master" } 
+rbx_binary = { git = "https://github.com/UpliftGames/rbx-dom", branch = "uplift-games-fork-releases" } 
+rbx_dom_weak = { git = "https://github.com/UpliftGames/rbx-dom", branch = "uplift-games-fork-releases" } 
+rbx_reflection = { git = "https://github.com/UpliftGames/rbx-dom", branch = "uplift-games-fork-releases" } 
+rbx_reflection_database = { git = "https://github.com/UpliftGames/rbx-dom", branch = "uplift-games-fork-releases" } 
+rbx_xml = { git = "https://github.com/UpliftGames/rbx-dom", branch = "uplift-games-fork-releases" } 
 
 anyhow = "1.0.44"
 backtrace = "0.3.61"
