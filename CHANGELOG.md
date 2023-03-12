@@ -3,6 +3,9 @@
 ## Unreleased Changes
 
 ## 0.12.0-uplift.release.10 (2023-03-08)
+* Adds migrations for Font and Gui Inset via rbx_dom update
+
+## 0.12.0-uplift.release.10 (2023-03-08)
 * Add Model Scale support
 
 ## 0.12.0-uplift.release.9 (2023-01-12)
