@@ -2,6 +2,9 @@
 
 ## Unreleased Changes
 
+## 0.12.0-uplift.release.12 (2023-03-12)
+* Enables migrations by updating reflection database
+
 ## 0.12.0-uplift.release.11 (2023-03-12)
 * Adds migrations for Font and Gui Inset via rbx_dom update
 
