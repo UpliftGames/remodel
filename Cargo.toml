@@ -1,6 +1,6 @@
 [package]
 name = "remodel"
-version = "0.12.0-uplift.release.12"
+version = "0.12.0-uplift.release.13"
 description = "A tool to read, modify, and write Roblox objects."
 authors = ["Lucien Greathouse <me@lpghatguy.com>"]
 edition = "2021"
